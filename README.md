@@ -12,3 +12,7 @@ vi mailtest.html
 (4)実行  
 php mailtest.php  
   
+
+#  動作確認環境  
+CentOS7.3 + PHP7.1.3  
+
